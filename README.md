@@ -17,12 +17,14 @@ You are going to study:
 ## Instructions:
 1. Download the data and prepare it for analysis. 
 
-  Store the data on visits, orders, and expenses in variables. Optimize the data for analysis. Make sure each column contains the correct data type.
-  File paths:
-    - /datasets/visits_log_us.csv.   
-    - /datasets/orders_log_us.csv.   
-    - /datasets/costs_us.csv.  
-  
+    Store the data on visits, orders, and expenses in variables.   
+    Optimize the data for analysis.  
+    Make sure each column contains the correct data type.  
+    File paths:  
+      - /datasets/visits_log_us.csv.     
+      - /datasets/orders_log_us.csv.     
+      - /datasets/costs_us.csv.    
+
 2. Make reports and calculate metrics:  
   - Product  
     - How many people use it every day, week, and month?  
