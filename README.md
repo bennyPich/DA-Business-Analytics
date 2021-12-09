@@ -61,7 +61,8 @@ All dates in this table are in YYYY-MM-DD format.
 The orders table (data on orders):
   - Uid — unique identifier of the user making an order  
   - Buy Ts — order date and time  
-  - Revenue — Yandex.Afisha's revenue from the order   
+  - Revenue — Yandex.Afisha's revenue from the order  
+   
 The costs table (data on marketing expenses):
   - source_id — ad source identifier
   - dt — date
