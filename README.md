@@ -13,7 +13,7 @@ You are going to study:
   - When they start to buy.  
   - How much money each customer brings.  
   - When they pay off.  
-  -
+  
 ## Instructions:
 1. Download the data and prepare it for analysis. 
 
@@ -23,8 +23,8 @@ File paths:
   - /datasets/orders_log_us.csv.   
   - /datasets/costs_us.csv.  
   
-2. Make reports and calculate metrics:
-  Product
+2. Make reports and calculate metrics:  
+  Product  
     - How many people use it every day, week, and month?  
     - How many sessions are there per day? (One user might have more than one session.)  
     - What is the length of each session?  
