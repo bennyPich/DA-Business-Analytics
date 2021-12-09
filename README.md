@@ -42,8 +42,11 @@ File paths:
    
   Plot graphs to display how these metrics differ for various devices and ad sources and how they change in time.  
 
-3. Write a conclusion: advise marketing experts how much money to invest and where.
-What sources/platforms would you recommend? Back up your choice: what metrics did you focus on? Why? What conclusions did you draw after finding the metric values?
+3. Write a conclusion: advise marketing experts how much money to invest and where.  
+    What sources/platforms would you recommend?  
+    Back up your choice: what metrics did you focus on?  
+    Why?  
+    What conclusions did you draw after finding the metric values?  
 
 ## Description of the data
 The visits table (server logs with data on website visits):
@@ -56,9 +59,9 @@ The visits table (server logs with data on website visits):
 All dates in this table are in YYYY-MM-DD format.
 
 The orders table (data on orders):
-  - Uid — unique identifier of the user making an order
-  - Buy Ts — order date and time
-  - Revenue — Yandex.Afisha's revenue from the order
+  - Uid — unique identifier of the user making an order  
+  - Buy Ts — order date and time  
+  - Revenue — Yandex.Afisha's revenue from the order   
 The costs table (data on marketing expenses):
   - source_id — ad source identifier
   - dt — date
